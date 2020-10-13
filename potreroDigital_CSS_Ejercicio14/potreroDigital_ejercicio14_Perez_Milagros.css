@@ -1,0 +1,35 @@
+  #bloque1 {
+  border: black solid;
+  background-color: red;
+  width: 300px;
+  height: 20pt;
+  margin: 4px 3%
+  padding:0;
+  }
+
+  #bloque2{
+  border: black dotted;
+  margin: 10px 6%;
+  padding: 9px;
+  }
+
+  #bloque3{
+  border: #C41204 solid;
+  margin: 0;
+  padding-right: 9px;
+  padding-left: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  }
+
+  .bloques{
+  background-color: green;
+  width: 20%;
+  height: 100px;
+  }
+
+  p{
+   color: rgb(129,245, 19);
+   font-family: fantasy;
+   text-align: center;
+ }

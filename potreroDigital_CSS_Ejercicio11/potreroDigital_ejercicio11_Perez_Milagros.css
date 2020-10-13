@@ -1,0 +1,24 @@
+h1{
+  background-color: red;
+  color: rgb(255, 255, 255);
+  }
+#Fuente{
+  font-family: helvetica;
+}
+.titulo{
+  text-decoration: underline;
+  }
+  h2{
+  background-color: #0000ff;
+  font-family: sans-serif;
+  }
+  .titulo2{
+  color: white;
+  }
+  p{
+  font-size: 16px;
+  background-color: #008000;
+  }
+  .grosor{
+  font-weight: bold;
+  }
